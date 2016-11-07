@@ -1,0 +1,1 @@
+read X;if (A /(B*(C+1))) then write 666*xxx*(776+1) else skip

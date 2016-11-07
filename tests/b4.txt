@@ -1,0 +1,1 @@
+read X;if (A/D)(*then write Z else skip

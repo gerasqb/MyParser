@@ -1,0 +1,2 @@
+skip;read Z;if Z+1==2 then write y else while x do while y do if seven==8 then skip else while var (*original comment*)
+do read newlinestatement///

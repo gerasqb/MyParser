@@ -1,0 +1,1 @@
+(*;if (A /C) then write X else skip *)
